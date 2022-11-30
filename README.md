@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrsdianto
 - 👀 I’m interested in flutter and python programming
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning on machine learning
 - 💞️ I’m looking to collaborate on remote data canter
 - 📫 How to reach me hrsdianto@gmail.com
 
