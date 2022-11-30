@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrsdianto
+- 👋 Hi, I’m Haris
 - 👀 I’m interested in flutter and python programming
 - 🌱 I’m currently learning on machine learning
 - 💞️ I’m looking to collaborate on remote data canter
