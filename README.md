@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter and python programming
 - 🌱 I’m currently learning on machine learning
 - 💞️ I’m looking to collaborate on remote data canter
-- 📫 How to reach me hrsdianto@gmail.com
+- 📫 How to reach me hrsdianto@gmail.com or hrsdianto@itsnusriwijaya.ac.id
 
 <!---
 hrsdianto/hrsdianto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
